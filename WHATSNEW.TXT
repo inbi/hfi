@@ -1,0 +1,11 @@
+HTML-FILE-INDEXER 1.05 (WINNT/95; DOS4GW)
+
+whats new?
+
+1.05
+- sorting mainindex
+- no mainindex-link, if no subs are processed
+
+1.04
+- initial release
+
